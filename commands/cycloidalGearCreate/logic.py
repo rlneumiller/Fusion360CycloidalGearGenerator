@@ -5,7 +5,7 @@ import traceback
 import adsk.core
 import adsk.fusion
 
-from ...lib import fusion360utils as futil
+from ...lib import fusionAddInUtils as futil
 from .settings import CycloidalGearSettings
 
 app = adsk.core.Application.get()
