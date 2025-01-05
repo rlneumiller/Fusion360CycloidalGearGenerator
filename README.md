@@ -1,5 +1,6 @@
 # Fusion360 Cycloidal Gear Generator Add-In
 You'll need to have a Fusion 360 installed and have downloaded this repo from github. If you download as a zip folder you'll need to have extracted the folder before you 'install'
+This worked on my machine when I last used it. Fusion360 is a moving target, so if it no lonter works feel free to clone or fork and fix it.
 
 To manually install (the only option provided for now):
 1. Download this repo from github. If you download as a zip folder you'll need to have extracted the folder to continue
